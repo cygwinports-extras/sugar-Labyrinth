@@ -1,0 +1,5 @@
+NAME="sugar-Labyrinth"
+VERSION=14
+RELEASE=2
+SUGAR_TYPE="Honey"
+inherit sugar
